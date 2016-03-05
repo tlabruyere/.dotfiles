@@ -1,0 +1,8 @@
+## ~/.bashrc_pregsenv template file
+
+## Turn on printing of machine name, OS release, architecture
+#printos=1
+
+## Disable printing of any kind
+#noprint=1
+
