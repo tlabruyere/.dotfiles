@@ -34,11 +34,6 @@ ulimit -c 0
 # turn off auto logout
 export TMOUT=0
 
-# set up proxies
-#export http_proxy="wwwproxy.sandia.gov:80"
-#export https_proxy="wwwproxy.sandia.gov:80"
-#export ftp_proxy="wwwproxy.sandia.gov:80"
-
 export EDITOR=vim
 export CVSEDITOR=$EDITOR
 export VISUAL=$EDITOR
