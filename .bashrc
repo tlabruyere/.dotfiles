@@ -12,6 +12,7 @@ alias mv='mv -i'
 alias rm='rm -i'
 alias cp='cp -i'
 alias egrep='egrep --color=auto'
+alias tmux='tmux -2'
 
 # check this xterm alias
 alias xterm='xterm -ls -sl 1000 -title `hostname`'
